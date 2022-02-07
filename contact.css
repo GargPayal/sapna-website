@@ -1,0 +1,18 @@
+.container-fluid img{
+    height: 40vh;
+    border-radius: 50%;
+}
+form{
+    width: 40%;
+    margin: 40px;
+}
+.box{
+    width: 100%;
+    display: flex;
+}
+.card{
+    left: 18rem;
+}
+.card-body{
+    flex: none;
+}

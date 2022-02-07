@@ -1,0 +1,80 @@
+@media  (max-width:585px) {
+    .card{
+        position: relative;
+        left: 0%;
+    }
+    .icon{
+        position: relative;
+     left: -2rem;
+    }
+    .counter-container{
+        width: 29vw;
+    }
+    .fifthsection {
+        display: flex;
+        height: 90vh;
+        flex-direction: column;
+    }
+    .b-text{
+        font-size: 22px;
+    }
+    .s-text{
+        font-size: 13px;
+    }
+    .companyname img{
+        height: 25vh;
+    }
+    .about{
+    position: relative;
+    left:0%;
+    width: 22rem;
+    
+    }
+    
+    .featurette{
+    height: 80vh;
+    }
+    .col-md-7{
+    position: relative;
+     top: 10rem;
+    }
+
+    .col-md-5 img{
+    position: relative;
+    bottom: 32rem;
+        
+
+    }
+
+    .image{
+        height: 45vh;
+        width:none;
+    }
+
+    .thirdsection{
+        margin-left: 25px;
+        grid-template-columns: auto;
+    }
+
+    .center{
+        text-align: left;
+    }
+
+    .padding{
+        margin-left: 29px;
+    }
+    .container-fluid img {
+        height: 26vh;
+    }
+    .box{
+        display:inline;
+    }
+
+    .card{
+        margin-left: 10px;
+    }
+
+
+
+
+}

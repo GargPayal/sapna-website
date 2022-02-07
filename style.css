@@ -1,0 +1,111 @@
+h2{
+    color: black;
+    font-size: 2.5rem;
+}
+p{
+    color: black;
+    font-size: 1.5rem;
+}
+img{
+    height: 80vh;
+}
+.card{
+    position: relative;
+    left: 50%;
+    text-align: center;
+}
+.container{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+}
+.fas{
+    position: relative;
+    left: 3rem;
+}
+.fourthsection{
+    display: flex;
+    justify-content: space-around;
+    height: 35vh;
+    margin-top: 60px;
+}
+.counter-container{
+    background-color: rgb(64, 180, 226);
+    width: 21vw;
+    height: 30vh;
+    padding-top: 15px;
+}
+
+.counter{
+    text-align: center;
+    font-size: 35px;
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 22px;
+}
+
+.icon{
+    position: relative;
+    left: 5rem;
+}
+.fifthsection{
+    display: flex;
+    height: 37vh;
+}
+
+.companyname{
+    width:34%;
+    text-align: center;
+}
+.companyname img{
+    height: 35vh;
+}
+
+.links{
+width: 34%;
+text-align: center;
+margin: 30px;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+}
+
+.information{
+    width:34%;
+    text-align: center;
+    margin: 20px;
+
+}
+.bottom{
+    margin:0px 17px ;
+}
+.b-text{
+    color: black;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.s-text{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    padding-top: 5px;
+}
+.footer{
+    height: 7vh;
+    text-align: center;
+    background-color:black ;
+    padding-top: 15px;
+    color:white ;
+}
+.mail{
+    text-decoration: none;
+    color: black;
+}

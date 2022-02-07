@@ -1,0 +1,16 @@
+.about{
+    position: relative;
+    left: 22%;
+    width: 50rem;
+
+}
+.card img{
+    height: 50vh;
+}
+.col-md-5 img{
+    position: relative;
+    bottom: 7rem;
+}
+.featurette{
+    height: 45vh;
+}

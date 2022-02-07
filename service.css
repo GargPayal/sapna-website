@@ -1,0 +1,22 @@
+.image{
+    height:60vh;
+    width:80vw ;
+    margin-top: 7px;
+}
+
+
+.padding{
+    padding-top: 30px;
+}
+
+
+.heading li{
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Barlow', sans-serif;
+}
+.thirdsection{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 10px 196px;
+}
